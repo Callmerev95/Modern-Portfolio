@@ -36,7 +36,7 @@ Dark Mode
 | ----------------- | ------------------------------------------------------------------ |
 | Background Color (--color-bg) | ![#212121](https://via.placeholder.com/10/212121?text=+) #212121 |
 | Text Color (--color-text) | ![#e0e0e0](https://via.placeholder.com/10/e0e0e0?text=+) #e0e0e0 |
-| Main Color --color-tertiary | ![#dc143c](https://via.placeholder.com/10/dc143c?text=+)  #dc143c | 
+| Main Color (--color-tertiary) | ![#dc143c](https://via.placeholder.com/10/dc143c?text=+)  #dc143c | 
 
 
 ## Getting Started
